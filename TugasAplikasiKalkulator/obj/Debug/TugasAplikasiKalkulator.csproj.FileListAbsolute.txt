@@ -1,0 +1,10 @@
+D:\SEMESTER 3\Pemrograman Lanjutan\KalkulatorApp\TugasAplikasiKalkulator\obj\Debug\TugasAplikasiKalkulator.csprojResolveAssemblyReference.cache
+D:\SEMESTER 3\Pemrograman Lanjutan\KalkulatorApp\TugasAplikasiKalkulator\obj\Debug\TugasAplikasiKalkulator.Form1.resources
+D:\SEMESTER 3\Pemrograman Lanjutan\KalkulatorApp\TugasAplikasiKalkulator\obj\Debug\TugasAplikasiKalkulator.Properties.Resources.resources
+D:\SEMESTER 3\Pemrograman Lanjutan\KalkulatorApp\TugasAplikasiKalkulator\obj\Debug\TugasAplikasiKalkulator.csproj.GenerateResource.Cache
+D:\SEMESTER 3\Pemrograman Lanjutan\KalkulatorApp\TugasAplikasiKalkulator\obj\Debug\TugasAplikasiKalkulator.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\Pemrograman Lanjutan\KalkulatorApp\TugasAplikasiKalkulator\bin\Debug\TugasAplikasiKalkulator.exe.config
+D:\SEMESTER 3\Pemrograman Lanjutan\KalkulatorApp\TugasAplikasiKalkulator\bin\Debug\TugasAplikasiKalkulator.exe
+D:\SEMESTER 3\Pemrograman Lanjutan\KalkulatorApp\TugasAplikasiKalkulator\bin\Debug\TugasAplikasiKalkulator.pdb
+D:\SEMESTER 3\Pemrograman Lanjutan\KalkulatorApp\TugasAplikasiKalkulator\obj\Debug\TugasAplikasiKalkulator.exe
+D:\SEMESTER 3\Pemrograman Lanjutan\KalkulatorApp\TugasAplikasiKalkulator\obj\Debug\TugasAplikasiKalkulator.pdb
